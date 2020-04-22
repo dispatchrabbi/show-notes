@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Episode 3: The Gospel of the Wug"
+title: ""
 tags: [episode, normal episode]
-embed: Episode-3-The-Gospel-of-the-Wug-ec909j
+embed:
 ---
 
 Wherein we make wugability happen and invoke rule three.
