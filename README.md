@@ -6,14 +6,14 @@ Transform podcast show notes into different formats for different channels.
 
 This script takes a chunk of markdown as input and transforms it to produce various outputs:
 
-- markdown for posting on a Jekyll-based website
+- markdown suitable for posting on a Jekyll-based website
 - HTML for distribution via RSS
 - text suitable for a YouTube video description
 
 ## Usage
 
 ```sh
-$ show-notes -t markdown < ./notes.md
+$ show-notes -t post < ./notes.md
 $ show-notes -t html < ./notes.md
 $ show-notes -t youtube < ./notes.md
 ```
@@ -22,7 +22,7 @@ $ show-notes -t youtube < ./notes.md
 
 | Flag | Description |
 |---|---|
-| -t | The type of output to produce. Valid values are `markdown`, `html`, and `youtube`. |
+| -t | The type of output to produce. Valid values are `post`, `html`, and `youtube`. |
 
 ## TODO
 
