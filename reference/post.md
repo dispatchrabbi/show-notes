@@ -52,6 +52,6 @@ Wherein we make wugability happen and invoke rule three.
 Send your questions (text or voice memo) to questions@linguisticsafterdark.com, or find us as @lxadpodcast on Twitter, Instagram, and Facebook.
 
 ## Credits:
-Linguistics After Dark is produced by Emfozzing Enterprises. Eli edits, Jenny transcribes, and Sarah does show notes. Our music is  [“Covert Affair” by Kevin MacLeod](https://incompetech.filmmusic.io/song/3558-covert-affair/).
+Linguistics After Dark is produced by Emfozzing Enterprises. Eli edits, Jenny transcribes, and Sarah does show notes. Our music is ["Covert Affair" by Kevin MacLeod](https://incompetech.filmmusic.io/song/3558-covert-affair/).
 
 And until next time… if you weren’t consciously aware of your tongue in your mouth, now you are :)

@@ -11,7 +11,7 @@ describe('post transform', function() {
     const input = fs.readFileSync('reference/input.md', { encoding: 'utf-8' });
     const actual = transforms.post(input);
 
-    assert.equal(actual, expected);
+    assert.equal(actual, expected, 'The transformed version does not match');
   });
 });
 
@@ -23,11 +23,18 @@ describe('html transform', function() {
     const input = fs.readFileSync('reference/input.md', { encoding: 'utf-8' });
     const actual = transforms.html(input);
 
-    assert.equal(actual, expected);
+    assert.equal(actual, expected, 'The transformed version does not match');
   });
 });
 
 describe('youtube transform', function() {
   // TODO: the reference implementations should probably eventually be strings stored here rather than in files
-  it('works against the reference implementation');
+  it('works against the reference implementation', function() {
+    const expected = fs.readFileSync('reference/youtube.txt', { encoding: 'utf-8' });
+
+    const input = fs.readFileSync('reference/input.md', { encoding: 'utf-8' });
+    const actual = transforms.youtube(input);
+
+    assert.equal(actual, expected, 'The transformed version does not match');
+  });
 });
