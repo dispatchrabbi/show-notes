@@ -11,8 +11,8 @@
   },
   "author": "Eli Morris-Heft (https://github.com/dispatchrabbi/)",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/dispatchrabbi/show-notes.git"
+    "type": "git",
+    "url": "https://github.com/dispatchrabbi/show-notes.git"
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
