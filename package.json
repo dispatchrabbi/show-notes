@@ -1,13 +1,20 @@
 {
   "name": "show-notes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Transform podcast show notes into different formats for different distribution channels",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
-  "license": "UNLICENSED",
+  "bin": {
+    "show-notes": "./index.js"
+  },
+  "author": "Eli Morris-Heft (https://github.com/dispatchrabbi/)",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/dispatchrabbi/show-notes.git"
+  },
+  "license": "BSD-3-Clause",
   "devDependencies": {
     "mocha": "^7.1.1"
   },
