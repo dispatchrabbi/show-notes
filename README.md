@@ -1,6 +1,6 @@
 # show-notes
 
-Transform podcast show notes into different formats for different distribution channels.
+Transform podcast show notes into different formats for different distribution channels
 
 ## Description
 
